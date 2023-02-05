@@ -1,0 +1,18 @@
+- Music: Time Passing I (David Hilowitz) - Creative Commons CC BY-NC 4.0
+https://freemusicarchive.org/music/David_Hilowitz/Time_Passing_I/David_Hilowitz_-_Film_Cue_103_-_Time_Passing_I/
+
+- 3D Assets: Kenney.nl - CC0 1.0 Universal
+https://www.kenney.nl/assets/platformer-kit
+https://www.kenney.nl/assets/nature-kit
+
+- FarlandSkies - Cloudy Skies (Borodar) - Unity Asset Store
+https://assetstore.unity.com/packages/2d/textures-materials/sky/farland-skies-cloudy-crown-60004
+
+- White Black GUI (Gamertose) - Unity Asset Store
+https://assetstore.unity.com/packages/2d/gui/icons/white-black-gui-by-gamertose-168805
+
+- TSL (Ippokratis Bournellis) - Unity Asset Store
+https://assetstore.unity.com/packages/vfx/shaders/toon-shader-free-21288
+
+- Simple Fade Scene Transition System (negLeft) - Unity Asset Store
+https://assetstore.unity.com/packages/tools/particles-effects/simple-fade-scene-transition-system-81753
